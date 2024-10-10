@@ -1,0 +1,70 @@
+{
+    "posts": [
+        {
+            "postid": "tset1",
+            "name": "홍길동",
+            "userImage": "https://picsum.photos/100?random=1",
+            "postImage": "https://picsum.photos/600?random=1",
+            "likes": 36,
+            "date": "2024-07-30",
+            "liked": false,
+            "content": "'OpenAI o1'에 대한 흥미로운 사실 7가지",
+            "filter": "perpetua"
+        },
+        {
+            "postid": "tset2",
+            "name": "소심쟁이",
+            "userImage": "https://picsum.photos/100?random=2",
+            "postImage": "https://picsum.photos/600?random=2",
+            "likes": 20,
+            "date": "2024-08-02",
+            "liked": true,
+            "content": "개발자를 위한 '소프트웨어 아키텍처' 개념과 활용법",
+            "filter": "clarendon"
+        },
+        {
+            "postid": "tset3",
+            "name": "위대한자",
+            "userImage": "https://picsum.photos/100?random=3",
+            "postImage": "https://picsum.photos/600?random=3",
+            "likes": 49,
+            "date": "2024-08-05",
+            "liked": false,
+            "content": "챗GPT보다 좋다고? '클로드'로 업무 생산성 높이기",
+            "filter": "lofi"
+        },
+        {
+            "postid": "tset4",
+            "name": "순심이",
+            "userImage": "https://picsum.photos/100?random=4",
+            "postImage": "https://picsum.photos/600?random=4",
+            "likes": 36,
+            "date": "2024-07-30",
+            "liked": false,
+            "content": "'OpenAI o1'에 대한 흥미로운 사실 7가지",
+            "filter": "perpetua"
+        },
+        {
+            "postid": "tset5",
+            "name": "소심쟁이",
+            "userImage": "https://picsum.photos/100?random=5",
+            "postImage": "https://picsum.photos/600?random=5",
+            "likes": 20,
+            "date": "2024-08-02",
+            "liked": true,
+            "content": "개발자를 위한 '소프트웨어 아키텍처' 개념과 활용법",
+            "filter": "clarendon"
+        },
+        {
+            "postid": "tset6",
+            "name": "요요가왔어",
+            "userImage": "https://picsum.photos/100?random=6",
+            "postImage": "https://picsum.photos/600?random=6",
+            "likes": 49,
+            "date": "2024-08-05",
+            "liked": false,
+            "content": "챗GPT보다 좋다고? '클로드'로 업무 생산성 높이기",
+            "filter": "lofi"
+        }
+    ]
+}
